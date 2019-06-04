@@ -2,7 +2,7 @@
 
 Created with love by: `Philip Nguyen`
 
-View online at: `Your URL here`
+View online at: `https://github.com/Nguyephi/tic-tac-toe-app`
 
 A tic tac toe game that helps to understnad the fundamentals of react. More specifically, better understanding of states and props
 
